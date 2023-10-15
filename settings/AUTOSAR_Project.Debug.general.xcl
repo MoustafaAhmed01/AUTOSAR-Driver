@@ -1,0 +1,13 @@
+"E:\Engineering Apps\IAR\arm\bin\armPROC.dll" 
+
+"E:\Engineering Apps\IAR\arm\bin\armSIM2.dll" 
+
+"E:\College files\Courses\Embedded Systems - MT Diploma\ARM-AUTOSAR - MT\Projects\AUTOSAR_Project\AUTOSAR_Project_Moustafa_Ahmed\Debug\Exe\c.out" 
+
+--plugin="E:\Engineering Apps\IAR\arm\bin\armbat.dll" 
+
+--device_macro="E:\Engineering Apps\IAR\arm/config/debugger/TexasInstruments/TM4C123.dmac" 
+
+
+
+

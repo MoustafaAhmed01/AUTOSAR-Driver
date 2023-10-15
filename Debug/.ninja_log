@@ -1,0 +1,52 @@
+# ninja log v5
+16	273	7189353422274649	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Dio_PBcfg.o	6da4e5af952c60cf
+275	337	7189353423055929	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Det.o	cc3319e6864badf2
+65	140	7190285444111066	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Det.o	2b8922d4c28e3cae
+5	288	7189353422274649	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/cstartup_M.o	8a3e16c568d63b19
+284	376	7189353423368362	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Gpt.o	3277ae37432f728f
+0	281	7189353422274649	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/App.o	ff8ba0ba20597ec9
+291	362	7189353423212103	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/main.o	f5d9977f34560036
+10	296	7189353422274649	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Button.o	503816747f287605
+22	356	7189353423055929	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Led.o	b666bffa762a42f5
+27	379	7189353423368362	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Dio.o	942bb8048447f54a
+301	398	7189353423680866	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Port.o	e13da0c0a6af7770
+340	409	7189353423680866	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Os.o	fe9434cd126e3834
+411	570	7189353425399592	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Download from FB/AUTOSAR_Project/AUTOSAR_Project/Debug/Exe/c.out	d04b97e33529e484
+1	83	7190282697927879	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/App.o	c9657eded11af240
+6	87	7190285443471035	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Button.o	a5f750babecc6a06
+11	81	7190285443481068	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/cstartup_M.o	5e5a6c79c3c4344b
+26	103	7190285443591109	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Dio_PBcfg.o	2439fe7813b40ca1
+83	144	7190285444191041	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Gpt.o	832beb2054d1e474
+20	122	7190285443931034	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Dio.o	8d584bc12ea2b422
+106	164	7190285444411027	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/main.o	ec51e9b7a996e5b3
+15	94	7190285443501077	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Led.o	47fc23c7de6f81c6
+125	186	7190285444621038	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Os.o	7ba2d5a63f4c7bfa
+97	361	7190285446351364	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Port.o	e2db9d13244b2b1f
+362	416	7189386186052392	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Exe/c.out	d71bd9fbfad87016
+90	156	7190285444321048	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Port_PBcfg.o	5062c12a8c806b0b
+15	76	7190285614869959	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Dio_PBcfg.o	2439fe7813b40ca1
+7	85	7190285614869959	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/cstartup_M.o	5e5a6c79c3c4344b
+2	93	7190285614879996	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/App.o	c9657eded11af240
+26	112	7190285615100046	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Gpt.o	832beb2054d1e474
+21	119	7190285614950061	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Det.o	2b8922d4c28e3cae
+10	127	7190285614979963	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Button.o	a5f750babecc6a06
+87	165	7190285615739953	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Led.o	47fc23c7de6f81c6
+96	170	7190285615799959	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Os.o	7ba2d5a63f4c7bfa
+122	182	7190285615859969	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/main.o	ec51e9b7a996e5b3
+130	191	7190285616049986	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Port_PBcfg.o	5062c12a8c806b0b
+78	196	7190285616069974	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Dio.o	8d584bc12ea2b422
+115	400	7190285618109954	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Obj/Port.o	e2db9d13244b2b1f
+403	449	7190285618639953	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project/Debug/Exe/c.out	4096091c54cddef6
+4	173	7190295981581768	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/Det.o	ed41cf6de828f9f2
+0	206	7190295981921623	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/App.o	bfcb20831dbd7b8d
+176	242	7190295982281615	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/cstartup_M.o	397888a3d6c871c8
+10	264	7190295982381627	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/Dio.o	474edd6fe0993995
+15	272	7190295982381627	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/Gpt.o	70571dff79d61e3f
+24	303	7190295982861624	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/Dio_PBcfg.o	f2dcd4845a8bd808
+20	311	7190295982881630	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/Led.o	c99204d65242aef0
+211	314	7190295982921636	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/Button.o	c063b5584c952a8d
+268	340	7190295983231621	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/main.o	a61670eb1c5390ac
+276	354	7190295983341637	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/Os.o	8f35ab9457de93a5
+306	370	7190295983581646	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/Port_PBcfg.o	b2b3caef84b41bf6
+246	525	7190295985121652	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Obj/Port.o	403804d3a7101622
+529	588	7190295985756815	E:/College files/Courses/Embedded Systems - MT Diploma/ARM-AUTOSAR - MT/Projects/AUTOSAR_Project/AUTOSAR_Project_Moustafa_Ahmed/Debug/Exe/c.out	9d514f2ca5d4661c
